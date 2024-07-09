@@ -12,7 +12,8 @@
 (\*) equal contribution, (<sup>:email:</sup>) corresponding author.
 
 
-ML-SemReg is a new **plug-and-play method** for **boosting** point cloud registration utilize multi-level semantic consistency. Its core idea is to address **inter- and intra-class** mismatchings (outliers) ultilizing semantic information of point clouds.
+ML-SemReg is a new plug-and-play method for boosting point cloud registration, utilizing multi-level semantic consistency. Its core idea is
+to address inter- and intra-class mismatchings (outliers) ultilizing multi-level semantic consistency.
 
 <!-- ArXiv Preprint ([]()), HuggingFace Page ([🤗 ()) -->
 
