@@ -2,7 +2,7 @@
 <h1>ML-SemReg</h1>
 <h3>ML-SemReg: Boosting Point Cloud Registration with Multi-level Semantic Consistency</h3>
 
-[Shaocheng Yan](https://github.com/Laka-3DV)<sup>1</sup>,
+[Shaocheng Yan](https://laka-3dv.github.io/)<sup>1</sup>,
 [Pengcheng Shi](https://orcid.org/0000-0003-2504-9890)<sup>2</sup>,
 [Jiayuan Li](https://ljy-rs.github.io/web/)<sup>1 :email:</sup>
 
