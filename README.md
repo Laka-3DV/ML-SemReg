@@ -50,7 +50,10 @@ python -m demo -is_vis
 
 If you use this codebase, or otherwise find our work valuable, please cite ML-SemReg:
 ```
-TODO
+@article{yanml,
+  title={ML-SemReg: Boosting Point Cloud Registration with Multi-level Semantic Consistency (Supplementary Materials)},
+  author={Yan, Shaocheng and Shi, Pengcheng and Li, Jiayuan}
+}
 ```
 
 # Acknowledgements 
